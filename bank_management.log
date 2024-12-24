@@ -1,0 +1,37 @@
+2024-12-21 14:37:14,651 - INFO - package: mysql.connector.plugins
+2024-12-21 14:37:14,655 - INFO - plugin_name: caching_sha2_password
+2024-12-21 14:37:14,656 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-12-21 14:37:54,069 - INFO - New account created: 1234567, Name: asdfgh
+2024-12-21 14:37:59,873 - INFO - Program exited.
+2024-12-21 14:42:50,685 - INFO - package: mysql.connector.plugins
+2024-12-21 14:42:50,686 - INFO - plugin_name: caching_sha2_password
+2024-12-21 14:42:50,686 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-12-21 14:42:54,988 - INFO - Displayed details for account 12345
+2024-12-21 14:43:15,518 - INFO - Balance enquiry for account 12345: 1234567
+2024-12-21 14:43:42,236 - INFO - Withdrawn 123456 from account 12345
+2024-12-21 14:44:05,355 - INFO - Balance enquiry for account 12345: 1111111
+2024-12-21 14:44:21,105 - INFO - Balance enquiry for account 12345: 1111111
+2024-12-21 14:44:32,582 - INFO - Withdrawn 123456 from account 12345
+2024-12-21 14:44:41,237 - INFO - Balance enquiry for account 12345: 987655
+2024-12-21 14:45:13,819 - INFO - package: mysql.connector.plugins
+2024-12-21 14:45:13,820 - INFO - plugin_name: caching_sha2_password
+2024-12-21 14:45:13,820 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-12-21 14:45:41,332 - INFO - package: mysql.connector.plugins
+2024-12-21 14:45:41,332 - INFO - plugin_name: caching_sha2_password
+2024-12-21 14:45:41,333 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-12-21 14:45:56,505 - INFO - package: mysql.connector.plugins
+2024-12-21 14:45:56,506 - INFO - plugin_name: caching_sha2_password
+2024-12-21 14:45:56,506 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-12-21 14:46:07,428 - ERROR - Database Error: 1264 (22003): Out of range value for column 'Balance' at row 4
+2024-12-21 14:46:07,429 - INFO - Deposited 12345678901234567890123456789012345678901234567890 to account 12345
+2024-12-21 14:46:24,608 - INFO - Balance enquiry for account 12345: 987655
+2024-12-21 14:46:42,603 - INFO - Withdrawn 987655 from account 12345
+2024-12-21 14:46:48,948 - INFO - Balance enquiry for account 12345: 0
+2024-12-23 20:11:31,976 - INFO - package: mysql.connector.plugins
+2024-12-23 20:11:31,976 - INFO - plugin_name: caching_sha2_password
+2024-12-23 20:11:31,977 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-12-23 20:11:41,513 - INFO - Program exited.
+2024-12-23 20:12:05,878 - INFO - package: mysql.connector.plugins
+2024-12-23 20:12:05,878 - INFO - plugin_name: caching_sha2_password
+2024-12-23 20:12:05,878 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-12-23 20:12:32,308 - INFO - Deposited 10000 to account 1234
